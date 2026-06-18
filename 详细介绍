@@ -1,3 +1,4 @@
+我在ai教学下用python和pygame做的一些游戏
 这个仓库里做的游戏基本都是在python3.12下，以pygame库为核心，再配合random等次要的库做的
 使用的pygame的版本是2.6.1
 同时因为中文字体的原因，这些代码里面用到了STXIHEI.TTF这个字体来中文显示
